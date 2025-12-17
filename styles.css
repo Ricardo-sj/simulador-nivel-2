@@ -45,16 +45,15 @@ gap: 20px;
      align-items: center;
  }
 
-
-
  #meuBotao{
     padding: 20px;
     color: white;
     background-color: red;
     border: none;
-    border-radius: 8px;
+    border-radius: 10px;
     font-size: 25px;
-
+    cursor: pointer;
+    
  }
 
  footer {
